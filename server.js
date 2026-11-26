@@ -47,7 +47,7 @@ app.get('/', (req, res) => {
 <body>
   <div class="card">
     <h1>Hello World！</h1>
-    <p class="name">我是【你的名字】，我的第一个 AI 开发的网站</p>
+    <p class="name">我是 sta-r666，我的第一个 AI 开发的网站</p>
     <p class="time">当前服务器时间：${serverTime}</p>
   </div>
 </body>
